@@ -1,2 +1,2 @@
 # PixelPainter
-Pixel painter writing in pure JavaScript.
+Pixel painter written in pure JavaScript.
